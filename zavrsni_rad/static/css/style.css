@@ -1,0 +1,72 @@
+#wreper {
+    width: 1904px;
+    height: 800px;
+    background: url(/static/img/poz.jpg) no-repeat fixed center;
+}
+
+#header {
+    width: 1904px;
+    height: 200px;
+    background: url(/static/img/header1.jpg);
+    margin-bottom: 30px;
+}
+
+.link {
+    margin-left: 205px;
+    margin-right: 205px;
+    float: left;
+    margin-top: 90px;
+    color: white;
+    font-size: 20px;
+}
+
+a:link, a:visited, a:hover, a:active {
+    color: white;
+    text-decoration: none;
+}
+
+.box {
+    width: 554px;
+    height: 450px;
+    background: white;
+    margin: 37px;
+    padding-top: 15px;
+    border-radius: 5px;
+    float: left;
+}
+
+h1 {
+    padding-top: 20px;
+    color: white;
+    text-align: center;
+}
+
+.p {
+    padding-left: 40px;
+    font-size: 25px;
+    color: white;
+}
+
+.box1 {
+    margin-left: 600px;
+    width: 900px;
+    height: 350px;
+    background: white;
+    margin-left: 450px;
+    margin-top: 70px;
+    padding: 15px;
+    border-radius: 5px;
+    float: left;
+}
+
+.grad {
+    float:left;
+    padding-bottom: 600px;
+}
+
+.grad1 {
+    float: left;
+    margin-right: 110px;
+    padding-top: 90px;
+    margin-left: 25px;
+}
